@@ -3,7 +3,7 @@ import React from 'react';
 const Book = () => {
     return (
         <div>
-            book now
+            All booked Rooms shows here <br /> private route.............
         </div>
     );
 };
